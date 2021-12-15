@@ -59,6 +59,7 @@ The script allows for two types of SI dynamics and optimization:
 These programs are distributed by the authors in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 If you use any of these codes, then please cite:
+
 [1]  Ana P Millan et a., "Epidemic models characterize seizure propagation and the effects of epilepsy surgery in individualized brain networks based on MEG and invasive EEG recordings." medRxiv (2021).
 
 [2] Ida Nissen et al. "Optimization of epilepsy surgery through virtual resections on individual structural brain networks." Scientific Reports 11.1 (2021): 1-18.
