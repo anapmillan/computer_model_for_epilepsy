@@ -32,7 +32,7 @@ The script allows for two types of SI dynamics and optimization:
           3.- SI_model_beta_W_func.m    Traditional model for a weighted network.
           
       2.- corr_model_data.m
-      Calculates the correlation between the seizure pattern and the model, defined as the Pearson's Correlation Coefficient, C.  
+      Calculates the correlation between the seizure pattern and the model, defined as the Pearson's Correlation Coefficient, C. It also calculater the overlap R between the           patterns, defined as the fraction of sampled ROIs in the same state (infected / not infected) in both patterns, and the re-scaled correaltion metric, C' = C * R.
      
  The library makes use of three inputs included under "data":
  
